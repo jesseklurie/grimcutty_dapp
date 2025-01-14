@@ -5,7 +5,7 @@ import { AnchorHTMLAttributes, FC } from 'react'
 import githubIcon from 'public/icons/github-button.svg'
 import telegramIcon from 'public/icons/telegram-button.svg'
 import vercelIcon from 'public/icons/vercel-button.svg'
-import inkathonLogo from 'public/images/inkathon-logo.png'
+import inkathonLogo from 'public/images/0.jpg'
 
 import { cn } from '@/utils/cn'
 

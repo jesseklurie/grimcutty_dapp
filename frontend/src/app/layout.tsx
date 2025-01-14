@@ -19,7 +19,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'ink!athon Boilerplate',
+  title: 'Grimcutty',
   description: 'Full-Stack DApp Boilerplate for ink! Smart Contracts',
   metadataBase: new URL(env.url),
   robots: env.isProduction ? 'all' : 'noindex,nofollow',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     siteName: 'ink!athon Boilerplate',
     images: [
       {
-        url: '/images/inkathon-og-banner.jpg',
+        url: '/images/0.jpg',
         width: 1280,
         height: 640,
       },
